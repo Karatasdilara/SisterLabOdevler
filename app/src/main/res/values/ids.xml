@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tabLayout" type="id" />
+    <item name="textView2" type="id" />
+    <item name="linearLayout" type="id" />
+    <item name="linearLayout2" type="id" />
+    <item name="linearLayout3" type="id" />
+    <item name="linearLayout4" type="id" />
+    <item name="searchView" type="id" />
+</resources>
